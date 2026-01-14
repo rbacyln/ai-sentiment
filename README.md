@@ -5,7 +5,7 @@
 ![Gradio](https://img.shields.io/badge/Gradio-Demo-orange)
 
 ## 📌 Project Overview
-This project implements a **Deep Learning-based Sentiment Analysis** model. Unlike traditional statistical methods (like TF-IDF or Naive Bayes), this project utilizes a **Transformer architecture (RoBERTa)** to understand the context and nuance of the text, including slang and emojis.
+This project implements a **Deep Learning-based Sentiment Analysis** model. This project utilizes a **Transformer architecture (RoBERTa)** to understand the context and nuance of the text, including slang and emojis.
 
 The model is deployed with an interactive web interface using **Gradio**.
 
