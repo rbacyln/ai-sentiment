@@ -37,8 +37,6 @@ Input Text	Predicted Sentiment	Confidence
 "The plot was meh 😒"	NEGATIVE 😐	94.2%
 
 
-E-Tablolar'a aktar
-
 🛠 Tech Stack
 Python
 
